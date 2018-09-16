@@ -3,7 +3,7 @@
 ### Лабораторная работа №1
 ### Задание №1
 * [IDEF0](https://github.com/egoistos/MarkovAA/blob/master/sixq_test.rsf)
-* ![Рисунок](https://github.com/egoistos/MarkovAA/blob/master/1.jpg?raw=true)
+* ![Рисунок](https://github.com/egoistos/MarkovAA/blob/master/IDEF0.png)
 ### Задание №2
 * [Диаграмма классов](https://github.com/egoistos/MarkovAA/blob/master/PL_1.txt)
 * ![Рисунок](http://www.plantuml.com/plantuml/png/JSwz2i8m5CNnkVSf3fqKV8VRZyb1xEPyIO8DJHEvjyL1V7S3NLmFF_wSpZRHRLyJsHBpIrHMk2Hc-50pY5kUMlRinvAAuZ77BL3JgvRtiGofaWgB-g3_qvUEIZjn2p5CjOSRqvtHCqvNlc3aSsLpz04kgak1kf1zlV83)
