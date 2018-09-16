@@ -10,11 +10,11 @@ skinparam usecase {
 	BorderColor Black
 }
 left to right direction
-actor P0 as "Студия"
-actor M0 as "Инструменты"
-actor P as "Скульпторы"
-actor M as "Скульптор"
-usecase A as "Создание скульптуры"
+actor P0 as "РЎС‚СѓРґРёСЏ"
+actor M0 as "РРЅСЃС‚СЂСѓРјРµРЅС‚С‹"
+actor P as "РЎРєСѓР»СЊРїС‚РѕСЂС‹"
+actor M as "РЎРєСѓР»СЊРїС‚РѕСЂ"
+usecase A as "РЎРѕР·РґР°РЅРёРµ СЃРєСѓР»СЊРїС‚СѓСЂС‹"
 P -- (A)
 (A) -- M
 P0 <|-- P
