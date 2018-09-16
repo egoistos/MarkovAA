@@ -21,4 +21,4 @@
 ![Рисунок](https://github.com/egoistos/MarkovAA/blob/master/3.png?raw=true)
 * [Диаграмма прецендентов](https://github.com/egoistos/MarkovAA/blob/master/PL_Ind2.txt)
 
-![Рисунок](https://github.com/egoistos/MarkovAA/blob/master/31.png?raw=true)
+![Рисунок](https://github.com/egoistos/MarkovAA/blob/master/PL_Ind2_Img.jpg?raw=true)
