@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Скульптор" as P {
+ Инструменты
+Статуя Высекать (Мрамор, В свободное время)
+}
+hide circle
+@enduml
