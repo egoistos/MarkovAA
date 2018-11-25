@@ -22,3 +22,23 @@
 
 * Диаграмма DFD:
 ![Диаграмма](https://github.com/egoistos/MarkovAA/blob/master/model3.png?raw=true)
+
+### Лабораторная работа №4
+* ![](https://github.com/egoistos/MarkovAA/blob/master/01_A0.png)
+* ![](https://github.com/egoistos/MarkovAA/blob/master/02_A0.png)
+* ![](https://github.com/egoistos/MarkovAA/blob/master/04_A2.png)
+* ![](https://github.com/egoistos/MarkovAA/blob/master/05_A21.png)
+* ![](https://github.com/egoistos/MarkovAA/blob/master/06_A3.png)
+
+### Лабораторная работа №5
+* ![](https://github.com/egoistos/MarkovAA/blob/master/03_A1.png)
+* ![](https://github.com/egoistos/MarkovAA/blob/master/07_A33.png)
+
+### Лабораторная работа №6
+* ![](https://github.com/egoistos/MarkovAA/blob/master/1.png)
+* [](https://github.com/egoistos/MarkovAA/blob/master/1.txt)
+* ![](https://github.com/egoistos/MarkovAA/blob/master/2.png)
+* [](https://github.com/egoistos/MarkovAA/blob/master/2.txt)
+* ![](https://github.com/egoistos/MarkovAA/blob/master/3.png)
+* [](https://github.com/egoistos/MarkovAA/blob/master/3.txt)
+
