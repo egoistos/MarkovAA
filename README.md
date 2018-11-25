@@ -35,10 +35,10 @@
 * ![](https://github.com/egoistos/MarkovAA/blob/master/07_A33.png)
 
 ### Лабораторная работа №6
-* ![](https://github.com/egoistos/MarkovAA/blob/master/1.png)
+![](https://github.com/egoistos/MarkovAA/blob/master/1.png)
 * [UML 1](https://github.com/egoistos/MarkovAA/blob/master/1.txt)
-* ![](https://github.com/egoistos/MarkovAA/blob/master/2.png)
+![](https://github.com/egoistos/MarkovAA/blob/master/2.png)
 * [UML 2](https://github.com/egoistos/MarkovAA/blob/master/2.txt)
-* ![](https://github.com/egoistos/MarkovAA/blob/master/3.png)
+![](https://github.com/egoistos/MarkovAA/blob/master/3.png)
 * [UML 3](https://github.com/egoistos/MarkovAA/blob/master/3.txt)
 
