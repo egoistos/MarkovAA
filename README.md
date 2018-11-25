@@ -36,10 +36,15 @@
 
 ### Лабораторная работа №6
 * [UML 1](https://github.com/egoistos/MarkovAA/blob/master/1.txt)
+
 ![](https://github.com/egoistos/MarkovAA/blob/master/1.png)
+
 * [UML 2](https://github.com/egoistos/MarkovAA/blob/master/2.txt)
+
 ![](https://github.com/egoistos/MarkovAA/blob/master/2.png)
+
 * [UML 3](https://github.com/egoistos/MarkovAA/blob/master/3.txt)
+
 ![](https://github.com/egoistos/MarkovAA/blob/master/3.png)
 
 
