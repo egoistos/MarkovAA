@@ -1,0 +1,33 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Потоки"
+class Input as "Входящие потоки"
+class Output as "Выходящие потоки"
+class Control as "Потоки управления"
+
+class InpData as "Полученные данные"
+class OutData as "Переданные данные"
+class Gost as "ГОСТ 34.321-96"
+class Net as "IEEE 802/6"
+class Alg as "Алгоритм\nассиметричного\nшифрования"
+
+Entity <|-- Input 
+Entity <|-- Output
+Entity <|-- Control
+
+Output <|-- OutData 
+
+Input <|-- InpData
+
+Control <|-- Gost
+Control <|-- Net
+Control <|-- Alg
+
+hide members
+hide circle
+hide methods
+@enduml

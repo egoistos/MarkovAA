@@ -1,0 +1,18 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class CompMod as "Модуль \n сравнения \n типов"
+class TransMod as "Модуль \n передачи \n данных"
+
+Entity <|-- Window 
+Entity <|-- Paper 
+
+hide members
+hide circle
+hide methods
+@enduml
