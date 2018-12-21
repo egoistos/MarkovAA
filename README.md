@@ -1,6 +1,6 @@
 # Отчет о лабораторных работах
 ## Студент группы ИДБ-15-12 Марков А.А.
-https://github.com/egoistos/MarkovAA/blob/master/README.md#курсовая-работа
+[Курсовая работа](https://github.com/egoistos/MarkovAA/blob/master/README.md#курсовая-работа)
 ### Лабораторная работа №1
 * [IDEF0](https://github.com/egoistos/MarkovAA/blob/master/sixq.rsf)
 
